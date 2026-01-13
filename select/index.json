@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Dani California",
+  "base_artist": "Red Hot Chili Peppers",
+  "createdAt": "2026-01-13T19:14:57.647074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/01_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dani California  (2014 Remaster)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/02_Dani_California_(2014_Remaster)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/03_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/04_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/05_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Rockabye Baby!",
+      "has_synced": true,
+      "path": "select/06_Dani_California_Rockabye_Baby!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/07_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/09_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/10_Dani_California_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_Dani_California_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
